@@ -1,9 +1,12 @@
-import { Heading } from '@chakra-ui/react'
+import { Button } from '@chakra-ui/react'
 import type { NextPage } from 'next'
 
 const Home: NextPage = () => {
   return (
-    <Heading>system-layout</Heading>
+    <>
+    <div>All projects</div>
+    <Button style={{fontWeight:"semibold"}}>Teste</Button>
+    </>
   )
 }
 
