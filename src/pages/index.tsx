@@ -5,7 +5,7 @@ const Home: NextPage = () => {
   return (
     <>
     <div>All projects</div>
-    <Button style={{fontWeight:"semibold"}}>Teste</Button>
+    <Button>Teste</Button>
     </>
   )
 }

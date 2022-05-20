@@ -11,7 +11,7 @@ import { ButtonStyles as Button} from './components/ButtonStyles';
 
 export const theme = extendTheme({
   fontSizes: {
-    // sm: '11px',
+    // sm: '13px',
   },
   styles: {
     global: {
@@ -19,7 +19,7 @@ export const theme = extendTheme({
         fontFamily: 'Open Sans, Arial, Helvetica, sans-serif',
         fontSize: "sm",
         color: "gray.800",
-        lineHeight: "base",
+        // lineHeight: "base",
       },
     },
   },
